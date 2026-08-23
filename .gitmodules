@@ -1,0 +1,3 @@
+[submodule "lib/FwLib"]
+	path = lib/FwLib
+	url = https://github.com/IOsetting/FwLib_STC8.git
